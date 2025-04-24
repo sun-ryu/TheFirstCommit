@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sunryu.me@gmail.com
+gitID : sun-ryu
